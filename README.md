@@ -22,4 +22,4 @@ Oracle SQL Server (or) Oracle Community Edition
   - Trigger function
   
  ### 2.2 Entity Relation Diagram
- ![Relational diagram](https://github.com/bhumijgupta/Ecommerce-management-DBMS-project/raw/master/ERD.jpg)
+ ![Relational diagram](https://github.com/thevarp19/midterm_database_onlineShop/raw/main/ERD.jpg)
